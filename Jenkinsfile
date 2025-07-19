@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'arreba', url: 'https://github.com/noor9699/Referral-And-Reward.git'
+                git branch: 'areeba', url: 'https://github.com/noor9699/Referral-And-Reward.git'
             }
         }
 
